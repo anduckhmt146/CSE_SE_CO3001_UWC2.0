@@ -1,6 +1,6 @@
 # UWC 2.0 Project
 
-An UWC 2.0 is a project for the subject Software Engineering at HCMUT in Semester 221, which provides an effective solution for urban waste collection business problems.
+An UWC 2.0 is a project for the subject Software Engineering at HCMUT in Semester 221, which provides an effective solution for urban waste collection problems.
 
 # Tech Stack
 
