@@ -1,6 +1,6 @@
 # UWC 2.0 Project
 
-A UWC 2.0 is a assignment project for the subject Software Engineering at HCMUT in Semester 221.
+An UWC 2.0 is a project for the subject Software Engineering at HCMUT in Semester 221, which provides an effective solution for urban waste collection business problems.
 
 # Tech Stack
 
@@ -29,5 +29,5 @@ Link youtube: https://youtu.be/632NU-4F7sI
 
 # Deployment
 
-EMS website has been deployed at https://anduckhmt146.github.io/uwc-bit-by-bit-deploy/
+UWC 2.0 website has been deployed at https://anduckhmt146.github.io/uwc-bit-by-bit-deploy/
 
